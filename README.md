@@ -38,4 +38,5 @@ JLEZ Ri, nnnn (if Ri <= 0, instructions will jump to location nnnn in the assemb
 Data: nnnn (Tells compiler where you want memory to start)<br>
 Use the symbol, #, to add any comments into the program<br><br>
 
-*Note, only integer values are accepted into the assembly language compiler
+*Note, you MUST put each assembly language instruction on a seperate line<br>
+Also, only integer values are accepted into the assembly language compiler
